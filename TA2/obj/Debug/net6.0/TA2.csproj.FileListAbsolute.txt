@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\bin\Debug\net6.0\TA2.exe
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\bin\Debug\net6.0\TA2.deps.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\bin\Debug\net6.0\TA2.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\bin\Debug\net6.0\TA2.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\bin\Debug\net6.0\TA2.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\refint\TA2.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\ref\TA2.dll
