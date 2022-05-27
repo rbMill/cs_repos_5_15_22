@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\ta2\\TA2.csproj": {}
+    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\TA2\\TA2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\ta2\\TA2.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\TA2\\TA2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\ta2\\TA2.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\TA2\\TA2.csproj",
         "projectName": "TA2",
-        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\ta2\\TA2.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\TA2\\TA2.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\ta2\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\TA2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

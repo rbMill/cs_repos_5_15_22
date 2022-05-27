@@ -1,6 +1,5 @@
 ﻿using System;
 // using System.Ling;
-using myString;
 
 
 namespace Program
@@ -13,7 +12,8 @@ namespace Program
         static int lim = 10000;
         static void Main ()
         {
-            Loop();
+            Dictionary<int[], object> position = new Dictionary<int[], object>();
+
         }
         
         static void Loop()

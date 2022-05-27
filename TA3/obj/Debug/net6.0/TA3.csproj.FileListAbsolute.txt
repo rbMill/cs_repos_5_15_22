@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\bin\Debug\net6.0\TA3.exe
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\bin\Debug\net6.0\TA3.deps.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\bin\Debug\net6.0\TA3.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\bin\Debug\net6.0\TA3.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\bin\Debug\net6.0\TA3.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\refint\TA3.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\TA3.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA3\obj\Debug\net6.0\ref\TA3.dll
