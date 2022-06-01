@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\bin\Debug\net6.0\mylibrary.deps.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\bin\Debug\net6.0\mylibrary.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\bin\Debug\net6.0\mylibrary.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\mylibrary.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\mylibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\mylibrary.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\mylibrary.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\mylibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\mylibrary.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\refint\mylibrary.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\mylibrary.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\obj\Debug\net6.0\ref\mylibrary.dll

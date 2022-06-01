@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "TA2/1.0.0": {
+        "dependencies": {
+          "myapi": "1.0.0",
+          "mylibrary": "1.0.0"
+        },
         "runtime": {
           "TA2.dll": {}
+        }
+      },
+      "myapi/1.0.0": {
+        "runtime": {
+          "myapi.dll": {}
+        }
+      },
+      "mylibrary/1.0.0": {
+        "runtime": {
+          "mylibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "TA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "myapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mylibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

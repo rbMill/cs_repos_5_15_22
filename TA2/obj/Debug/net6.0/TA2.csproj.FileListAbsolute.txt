@@ -28,3 +28,8 @@ C:\Users\Asus\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\refint\TA2.
 C:\Users\Asus\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.pdb
 C:\Users\Asus\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\TA2.genruntimeconfig.cache
 C:\Users\Asus\Documents\GitHub\cs_repos_5_15_22\ta2\obj\Debug\net6.0\ref\TA2.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA2\bin\Debug\net6.0\myapi.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA2\bin\Debug\net6.0\mylibrary.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA2\bin\Debug\net6.0\mylibrary.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA2\bin\Debug\net6.0\myapi.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA2\obj\Debug\net6.0\TA2.csproj.CopyComplete

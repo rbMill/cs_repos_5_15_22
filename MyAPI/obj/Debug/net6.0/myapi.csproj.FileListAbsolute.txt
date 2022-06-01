@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\bin\Debug\net6.0\myapi.deps.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\bin\Debug\net6.0\myapi.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\bin\Debug\net6.0\myapi.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\myapi.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\myapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\myapi.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\myapi.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\myapi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\myapi.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\refint\myapi.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\myapi.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Debug\net6.0\ref\myapi.dll

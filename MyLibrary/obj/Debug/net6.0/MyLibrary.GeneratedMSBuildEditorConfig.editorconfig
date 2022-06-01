@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = MyLibrary
-build_property.ProjectDir = c:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\
+build_property.RootNamespace = mylibrary
+build_property.ProjectDir = C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\MyLibrary\

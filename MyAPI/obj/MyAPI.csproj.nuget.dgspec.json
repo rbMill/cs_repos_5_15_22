@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\MyAPI\\MyAPI.csproj": {}
+    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\myapi\\myapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\MyAPI\\MyAPI.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\myapi\\myapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\MyAPI\\MyAPI.csproj",
-        "projectName": "MyAPI",
-        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\MyAPI\\MyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\myapi\\myapi.csproj",
+        "projectName": "myapi",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\myapi\\myapi.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\MyAPI\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\myapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
