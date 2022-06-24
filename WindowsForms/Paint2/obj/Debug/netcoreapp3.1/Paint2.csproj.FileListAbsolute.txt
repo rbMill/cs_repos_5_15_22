@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\bin\Debug\netcoreapp3.1\Paint2.exe
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\bin\Debug\netcoreapp3.1\Paint2.deps.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\bin\Debug\netcoreapp3.1\Paint2.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\bin\Debug\netcoreapp3.1\Paint2.runtimeconfig.dev.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\bin\Debug\netcoreapp3.1\Paint2.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\bin\Debug\netcoreapp3.1\Paint2.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\WindowsForms\Paint2\obj\Debug\netcoreapp3.1\Paint2.FrmMain.resources

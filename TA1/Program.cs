@@ -1,30 +1,33 @@
-﻿using System;
-// using System.Ling;
+﻿using System.Security.Cryptography;
+using System;
+using MyLibrary;
 
-
-namespace Program
+namespace ProgromMain
 {
-    class Program
+    class ProgromMain 
     {
-        static bool flag = true;
-        static int x = 0;
-        static int mp = 1;
-        static int lim = 10000;
-        static void Main ()
+        // public static string GoGo
+        static void Main()
         {
-            Dictionary<int[], object> position = new Dictionary<int[], object>();
+            // Cart<string>("Loool");
+            var Lol = new Relational();
+            myString.coke(1);   
+            Console.WriteLine(Lol.GetType().ToString());
+        }
+        public static T Cart<T>(T lol)
+        {
+           Console.WriteLine(lol);
+           return lol;
+        }
 
-        }
-        
-        static void Loop()
-        {
-            for (int i = 0;flag && i < lim; i++)
-            {
-                if (x <= 0){mp = 1;}
-                else if (x >= 51){mp = -1;}
-                Console.WriteLine(String.Concat(Enumerable.Repeat("_",x))+"*");
-                x+=mp;
-            }
-        }
+        // public static T Cart<T>(T lol, T sol)
+        // {
+        //    if(T == Type.GetType(String))
+        //    {
+        //     Console.WriteLine(lol + sol);
+        //    } 
+        //    return lol;
+        // }
     }
+    
 }

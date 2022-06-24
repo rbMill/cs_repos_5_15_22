@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\bin\Debug\net6.0\TA4.exe
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\bin\Debug\net6.0\TA4.deps.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\bin\Debug\net6.0\TA4.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\bin\Debug\net6.0\TA4.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\bin\Debug\net6.0\TA4.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\refint\TA4.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\TA4.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\TA4\obj\Debug\net6.0\ref\TA4.dll

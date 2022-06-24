@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Release\net6.0\myapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Release\net6.0\myapi.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Release\net6.0\myapi.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\myapi\obj\Release\net6.0\myapi.csproj.CoreCompileInputs.cache

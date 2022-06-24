@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTe5pVbiwKqNI0eh401S37Vr+r0Jgtuhi8stTEmuYraNWw9QOs0NfRUpb1VHVC7Blc6HDEgUNEIHMGXLlaRq5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\WindowsForms\\Paint2\\Paint2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

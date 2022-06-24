@@ -1,14 +1,14 @@
 ﻿
 namespace MyLibrary
 {
-    public static class Generators
+    public static class myMath
     {
     // Class Variables
-    public static int[] primes = {2,3,5,7,11,13,17,23,29,31};
+    
+    
     public static int[] GetPrimes(int len = 100, bool print = false)
     {
-        
-        
+        int[] primes = {2,3,5,7,11,13,17,23,29,31};    
         int[] prime_nums = new int[len];
         if (print){
         Console.WriteLine("Start!");
@@ -35,5 +35,13 @@ namespace MyLibrary
         }
         return prime_nums;
     }
+    }
+
+    public class RigidObject
+    {
+        public RigidObject()
+        {
+            Console.WriteLine("Rigid On");
+        }
     }
 }

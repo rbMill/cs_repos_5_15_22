@@ -1,18 +1,19 @@
-﻿using System.Collections;
+﻿// using Internal;
+using System;
+using System.Collections;
 using MyLibrary;
+using System.Globalization;
 
-namespace IORead
+namespace Program
 {
-    class main1
+    class Program
     {
+        
         public static void Main()
         {
-            int[] vals = Generators.GetPrimes();
-            Console.WriteLine(vals[19]);
-        }
-
-        
+            var x = myMath.GetPrimes(12);
+            Console.Write(x[0]);
+             
         }
     }
-
-
+}

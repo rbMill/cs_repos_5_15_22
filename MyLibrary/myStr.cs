@@ -8,7 +8,15 @@ namespace MyLibrary
         {
             return val.ToString();
         }
-        
-        
+    }
+
+    public class Relational
+    {
+        static int i = 0;
+        static Relational()
+        {
+            i+=1;
+            Console.WriteLine(i);
+        }
     }
 }
