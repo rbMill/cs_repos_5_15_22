@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\MyLibrary\mylibrary.csproj" />
     <ProjectReference Include="..\myapi\myapi.csproj" />
+    <ProjectReference Include="..\CSV_dataBase_Encryprted\CSV_dataBase_Encryprted.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\bin\Debug\net6.0\CSV_dataBase_Encryprted.deps.json
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\bin\Debug\net6.0\CSV_dataBase_Encryprted.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\bin\Debug\net6.0\CSV_dataBase_Encryprted.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\CSV_dataBase_Encryprted.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\CSV_dataBase_Encryprted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\CSV_dataBase_Encryprted.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\CSV_dataBase_Encryprted.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\CSV_dataBase_Encryprted.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\CSV_dataBase_Encryprted.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\refint\CSV_dataBase_Encryprted.dll
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\CSV_dataBase_Encryprted.pdb
+C:\Users\Dell\Documents\GitHub\cs_repos_5_15_22\CSV_dataBase_Encryprted\obj\Debug\net6.0\ref\CSV_dataBase_Encryprted.dll

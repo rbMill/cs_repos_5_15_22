@@ -2,6 +2,7 @@
 using System;
 using System.Collections;
 using MyLibrary;
+using CSV_dataBase_Encryprted;
 using System.Globalization;
 
 namespace Program
@@ -11,9 +12,20 @@ namespace Program
         
         public static void Main()
         {
-            var x = myMath.GetPrimes(12);
-            Console.Write(x[0]);
-             
+            var cl = new SampleClass();
+        }
+    }
+
+    class SampleClass
+    {
+        private string info = "No where is ever here"; 
+        public string Info{
+            get{
+                return info;
+            }
+            set{
+                info = "You dare fucking change it?";
+            }
         }
     }
 }

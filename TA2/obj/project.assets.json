@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "CSV_dataBase_Encryprted/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CSV_dataBase_Encryprted.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSV_dataBase_Encryprted.dll": {}
+        }
+      },
       "myapi/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -25,6 +35,11 @@
     }
   },
   "libraries": {
+    "CSV_dataBase_Encryprted/1.0.0": {
+      "type": "project",
+      "path": "../CSV_dataBase_Encryprted/CSV_dataBase_Encryprted.csproj",
+      "msbuildProject": "../CSV_dataBase_Encryprted/CSV_dataBase_Encryprted.csproj"
+    },
     "myapi/1.0.0": {
       "type": "project",
       "path": "../myapi/myapi.csproj",
@@ -38,6 +53,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CSV_dataBase_Encryprted >= 1.0.0",
       "myapi >= 1.0.0",
       "mylibrary >= 1.0.0"
     ]
@@ -74,6 +90,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\CSV_dataBase_Encryprted\\CSV_dataBase_Encryprted.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\CSV_dataBase_Encryprted\\CSV_dataBase_Encryprted.csproj"
+            },
             "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\myapi\\myapi.csproj": {
               "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\cs_repos_5_15_22\\myapi\\myapi.csproj"
             },
